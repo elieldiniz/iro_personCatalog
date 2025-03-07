@@ -3,7 +3,7 @@ import Link from 'next/link';
 
 export default function Home() {
   const menuItems = [
-    { name: 'Veja Modelos', link: 'https://www.canva.com/design/DAGbLZT1XDc/s571J-S93NS59hMEzkk2HQ/watch?utm_content=DAGbLZT1XDc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2c7f2c0fac' },
+    { name: 'Veja Modelos', link: 'https://iroperson.smartpos.app/' },
     { name: 'Personalize do Seu Jeito', link: 'https://wa.me/5569992445784' },
     { name: 'Sobre Nós', link: '/Sobrenos' },
     { name: 'Contato', link: 'https://wa.me/5569992445784' },
